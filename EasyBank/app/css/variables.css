@@ -1,0 +1,21 @@
+:root {
+
+    /* Colors variables */
+    --darkBlue: hsl(233, 26%, 24%);
+    --limeGreen: hsl(136, 65%, 51%);
+    --brightCyan: hsl(192, 70%, 51%);
+    --grayishBlue: hsl(233, 8%, 62%);
+    --lightGrayishBlue: hsl(220, 16%, 96%);
+    --veryLightGray: hsl(0, 0%, 98%);
+    --white: hsl(0, 0%, 100%);
+
+    /* Font Sizes Variables */
+    --fontSmall: 14px;
+    /* 0.875 rem */
+    --fontMedium: 18px;
+    /* 1.125 rem */
+    --fontLarge: 20px;
+    --fontXlarge: 52px;
+    /*3.25 rem*/
+
+}
