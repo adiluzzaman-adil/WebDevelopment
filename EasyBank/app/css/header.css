@@ -105,9 +105,12 @@
     margin-top: 24px;
     padding: 26px;
     border-radius: 5px;
+}
 
-
-
+/* For Mobiles */
+@media only screen and (max-width: 640px) {
+.header_menu{
+    z-index: 1;
 }
 
 .header_menu a {
